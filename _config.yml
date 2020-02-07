@@ -1,0 +1,69 @@
+#Jekyll Config File
+
+remote_theme: birdsofjay/retlab
+title: Jason Testing
+description: A Jekyll Experiment
+github_username: birdsofjay
+
+pgp_key:
+
+lang: en-US
+
+# Pages to include in header navigation
+nav_pages:
+  - index.html
+  - talks.md
+  - press.md
+  - about.md
+  - contact.md
+
+# Pages to include in footer navigation
+footer_pages:
+  - books.md
+  - fine-print.md
+
+# Disqus login information, for comments
+disqus:
+  shortname: DISQUS_USERNAME
+
+# Links to include on the contact page
+contact_links:
+  - name: Twitter
+    url: https://twitter.com/
+    icon: twitter
+  - name: LinkedIn
+    url: https://linkedin.com/
+    icon: linkedin
+    
+
+url:
+
+# github repository url
+repository: 'birdsofjay/jekyll_testing.github.io'
+
+# Google Analytics, if using
+ga_username:
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
