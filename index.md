@@ -4,3 +4,4 @@ permalink: /
 ---
 
 new index
+test update
