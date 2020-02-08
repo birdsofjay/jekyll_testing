@@ -32,7 +32,7 @@ contact_links:
     url: https://linkedin.com/
     icon: linkedin
     
-url: /jekyll_testing
+url: jekyll_testing
 
 # github repository url
 repository: 'birdsofjay.github.io/jekyll_testing'
