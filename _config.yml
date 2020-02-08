@@ -1,6 +1,6 @@
 #Jekyll Config File
 
-remote_theme: birdsofjay/retlabsadsad
+remote_theme: birdsofjay/retlab
 title: Jason Testing
 description: A Jekyll Experiment
 github_username: birdsofjay
@@ -32,8 +32,6 @@ contact_links:
     url: https://linkedin.com/
     icon: linkedin
     
-
-url:
 
 # github repository url
 repository: 'birdsofjay.github.io/jekyll_testing'
