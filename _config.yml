@@ -1,7 +1,7 @@
 #Jekyll Config File
 
 remote_theme: birdsofjay/retlab
-title: Jason Testing
+title: Main Website
 description: A Jekyll Experiment
 github_username: birdsofjay
 
@@ -32,7 +32,7 @@ contact_links:
     url: https://linkedin.com/
     icon: linkedin
     
-url: /jekyll_testing
+url: /
 
 # github repository url
 repository: 'birdsofjay.github.io/jekyll_testing'
