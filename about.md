@@ -1,5 +1,7 @@
 ---
-title: about
+title: About
+layout: about
+permalink: /about/
 ---
 
-about?
+This would be the about me section.
